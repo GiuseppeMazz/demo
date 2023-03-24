@@ -1,1 +1,1 @@
-Turing Award 2018: Lecun
+Turing Award 2018: Yann Lecun
